@@ -14,10 +14,6 @@
     <img align="center" alt="Matheus-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
-
-  ##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuelholima&langs_count=3&layout=compact&theme=radical&show)](https://github.com/cuelholima/github-readme-stats)
   
   ##
  
