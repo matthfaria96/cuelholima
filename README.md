@@ -1,7 +1,5 @@
 ## Olá, eu sou o Matheus Faria! Front dev.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuelholima&theme=radical&show_icons=true)
-
 🚀 Linguagens de programação, Frameworks e Programas que utilizo
 
 <div style="display: inline_block"><br>
